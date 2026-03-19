@@ -1,9 +1,3 @@
-//
-//  LoonieApp.swift
-//  Loonie
-//
-//  Created by ll on 15.03.2026.
-//
 
 import SwiftUI
 
